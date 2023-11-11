@@ -35,3 +35,18 @@ OK: PoinoTalk Engineをソフトウェアに組み込む、組み込む際に改
 NG: PoinoTalk Assetsを加工して単体で公開する
 NG: PoinoTalk Engineを改変して単体で配布する
 ```
+
+### Q. 他のマテリアルに内包して再配布する場合はどのような表記にすればいい？
+A. 概要欄、README.txtなどのわかりやすい場所に、対象名を含めて表記してあれば問題ありません  
+
+例: 動画内でPoinoTalk Assetsを利用した場合  
+```
+イラスト: PoinoTalk Assets
+```
+
+例: PoinoTalk Engineをソフトウェアに組み込んだ場合  
+```
+本ソフトウェアでは以下のマテリアルを利用しています
+
+PoinoTalk Engine
+```
