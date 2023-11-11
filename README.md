@@ -50,3 +50,17 @@ A. 概要欄、README.txtなどのわかりやすい場所に、対象名を含�
 
 PoinoTalk Engine
 ```
+
+### Q. 他のマテリアルに内包して再配布する場合のライセンスはどうなる？
+A. PoinoTalk Licenceのままです  
+
+PoinoTalk Licenceが適用された対象はPoinoTalk Licenceから他のライセンスに変更することはできません  
+PoinoTalk Licenceが適用された対象を内包する側のライセンスは自由に設定することができますが、そのライセンスによってPoinoTalk Licenceの制限を緩めたり、無効化することはできません  
+
+```
+NG: PoinoTalk Assetsを利用したイラストや動画をパブリックドメインで公開する
+OK: PoinoTalk Engineを組み込んだソフトウェアを独自ライセンスかつPoinoTalk Licenceで配布する
+```
+
+`独自ライセンスかつPoinoTalk Licence`はどちらかを選択させるのではなく、両方のライセンスの`制限の強い部分`をそれぞれ優先的に適用するものです  
+そのため、PoinoTalk Licenceの制限と互換性がないライセンスと組み合わせて配布することはできません  
