@@ -64,4 +64,4 @@ OK: PoinoTalk Engineを組み込んだソフトウェアを独自ライセンス
 
 ## PoinoTalk Licenceのライセンス
 PoinoTalk Licence 1.0  
-https://raw.githubusercontent.com/KoharuYuzuki/PoinoTalkLicence/main/1.0.txt
+https://raw.githubusercontent.com/KoharuYuzuki/PoinoTalkLicence/main/1.0.txt  
