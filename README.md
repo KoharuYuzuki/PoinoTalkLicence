@@ -1,7 +1,4 @@
 # PoinoTalk Licence
-> [!WARNING]
-> 現在このライセンスは草案です
-
 PoinoTalk関連リポジトリなどに適用されているライセンスです  
 
 ## PoinoTalk Licenceを適用する
