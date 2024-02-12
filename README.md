@@ -1,5 +1,5 @@
 # PoinoTalk Licence
-PoinoTalk関連リポジトリなどに適用されているライセンスです  
+PoinoTalkやPoinoTalk関連リポジトリなどに適用されているライセンスです  
 
 ## PoinoTalk Licenceを適用する
 PoinoTalk Licenceを適用することを明示し、ライセンス文を記載するか、ライセンス文へのURLを記載します  
