@@ -61,3 +61,7 @@ OK: PoinoTalk Engineを組み込んだソフトウェアを独自ライセンス
 
 `独自ライセンスかつPoinoTalk Licence`はどちらかを選択させるのではなく、両方のライセンスの`制限の強い部分`をそれぞれ優先的に適用するものです  
 そのため、PoinoTalk Licenceの制限と互換性がないライセンスと組み合わせて配布することはできません  
+
+## PoinoTalk Licenceのライセンス
+PoinoTalk Licence
+https://github.com/KoharuYuzuki/PoinoTalkLicence/blob/main/1.0.txt
