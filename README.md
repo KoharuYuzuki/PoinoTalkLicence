@@ -6,7 +6,7 @@ PoinoTalk Licenceを適用することを明示し、ライセンス文を記載
 
 ```
 PoinoTalk Licence
-https://github.com/KoharuYuzuki/PoinoTalkLicence/blob/main/1.0.txt
+https://raw.githubusercontent.com/KoharuYuzuki/PoinoTalkLicence/main/1.0.txt
 ```
 
 ## Q&A
@@ -64,4 +64,4 @@ OK: PoinoTalk Engineを組み込んだソフトウェアを独自ライセンス
 
 ## PoinoTalk Licenceのライセンス
 PoinoTalk Licence 1.0  
-https://github.com/KoharuYuzuki/PoinoTalkLicence/blob/main/1.0.txt
+https://raw.githubusercontent.com/KoharuYuzuki/PoinoTalkLicence/main/1.0.txt
